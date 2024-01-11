@@ -30,7 +30,7 @@ int main(){
 	else{
 	srand(time(0)); //seed random number
 	
-  computer_choice = (rand()%2+1);
+  computer_choice = (rand()%2+0);
 	cout<<"computer choice is: "<<computer_choice<<endl;
 	
 		if(user_choice == computer_choice){
