@@ -3,4 +3,6 @@ making some basics and simple game
 <br>
 Hello guys
 <br>
-This game is making for just practicing and fun.
+I am Rohit an Author of this Repository
+<br>
+This game is create by me just for practicing and fun purposes.
